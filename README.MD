@@ -18,6 +18,7 @@ A powerful Streamlit application that leverages FAL AI API to transform text des
 ```bash
 git clone https://github.com/venturero/FAL-Image-Generation.git
 cd FAL-Image-Generation
+'''
 
 ## Set Up API Key
 Create a .env file and add your FAL AI API key:
